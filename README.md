@@ -1,7 +1,7 @@
 ### Hi there people 👋
 
 # 💫 About Me:
-🔭 I’m currently working on cloud integrated technologies<br>👯 I’m looking to collaborate on cloud computing or Data science<br>🌱 I’m currently learning DevOps and competitive programming<br>💬 Pronouns : she/her
+🔭 I’m currently working on cloud integrated technologies<br>👯 I’m looking to collaborate on cloud and Machine learning optimization<br>🌱💬 Pronouns : she/her
 
 
 ## 🌐 Socials:
