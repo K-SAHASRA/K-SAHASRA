@@ -1,4 +1,4 @@
-### Hi there people 👋 Stalking me? 🧐 your in the right place then ✨
+### Hi there people 👋 Stalking me? 🧐 Your in the right place then ✨
 
 
 # 💫 About Me:
